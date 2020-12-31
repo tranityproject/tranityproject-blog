@@ -1,52 +1,12 @@
-- name: Dennis Brotzky
+- name: Wahyu Adi Kurniawan
   bio: |
-    Written by You. This is where your author bio lives. Share your work, your
-    joys and of course, your Twitter handle.
-  avatar: ./avatars/dennis-brotzky.jpg
+    HI, I'm Wahyu, the founder of Tranity Project. I'm a Software Engineer based on Indonesia. I want to share my knowledge and experience as long as I'm a Software Engineer. I hope it can help you get more knowledge about Software Engineer.
+  avatar: ./avatars/wahyu-adi-kurniawan.jpeg
   featured: true
   social:
-    - url: https://unsplash.com
-    - url: https://stackoverflow.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: mailto:myem@il.com
-
-- name: Thiago Costa
-  bio: |
-    Written by You. This is where your author bio lives. Share your work, your
-    joys and of course, your Twitter handle.
-  avatar: ./avatars/thiago-costa.jpg
-  social:
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: mailto:myem@il.com
-
-- name: Brad Tiller
-  bio: |
-    Written by You. This is where your author bio lives. Share your work, your
-    joys and of course, your Twitter handle.
-  avatar: ./avatars/brad-tiller.jpg
-  social:
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: mailto:myem@il.com
-
-- name: Mack Mansouri
-  bio: |
-    Written by You. This is where your author bio lives. Share your work, your
-    joys and of course, your Twitter handle.
-  avatar: ./avatars/mack-mansouri.jpg
-  social:
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: mailto:myem@il.com
+    - url: https://github.com/ayungavis
+    - url: https://instagram.com/ayungavis
+    - url: https://twitter.com/ayungavis
+    - url: https://facebook.com/ayungavis
+    - url: https://linkedin.com/in/ayungavis
+    - url: mailto:wahyuadikurniawan@live.com
